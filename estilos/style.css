@@ -169,6 +169,14 @@ h2 {
   font-weight: 500;
 }
 
+.text-registration {
+  color:#2f939a;
+  font-weight: 600;
+  font-size: 25px;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
 .section-home {
   text-align: left;
   margin:20px 20px 40px 20px;
@@ -195,6 +203,22 @@ h2 {
   margin: 40px auto;
 }
 
+form {
+  border: 4px solid #FFC93C;
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+fieldset {
+  border: transparent;
+  padding: 1rem;
+}
+
+legend,
+label {
+  margin-right: 20px;
+}
+
 
 h3 {
   font-family:'Kanit', sans-serif;
@@ -212,6 +236,10 @@ h4 {
   letter-spacing: 1px;
   margin-bottom: 10px;
   font-size: 20px;
+}
+
+.title-form {
+  margin: 0px 20px;
 }
 
 p {
@@ -235,6 +263,14 @@ p {
   font-size: 18px;
   font-family: 'Kanit', sans-serif;
   text-align: justify;
+}
+
+.text-form {
+  color:black;
+  font-size: 15px;
+  font-family: 'Kanit', sans-serif;
+  text-align: justify;
+  margin: 10px 20px;
 }
 
 .img-rules {
