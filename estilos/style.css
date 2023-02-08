@@ -234,7 +234,6 @@ h2 {
   width: 80%;
   height: auto;
   margin: 40px auto;
- 
 }
 
 .table-schedule {
@@ -258,14 +257,19 @@ form {
 }
 
 fieldset {
-  border: transparent;
-  padding: 0.5rem;
+  border-style:dashed;
+  padding: 1rem;
 }
 
 legend,
 .label-form {
-  margin-right: 90px;
   font-family:'Kanit', sans-serif;
+}
+
+input {
+  height: 22px;
+  padding: 10px 20px;
+  margin: 0px 20px;
 }
 
 
@@ -323,9 +327,7 @@ p {
 
 }
 
-input {
-  height: 22px;
-}
+
 
 .enviar {
   background:#2f939a;
@@ -514,5 +516,11 @@ h5 {
 
   .subtext-schedule {
     font-size: 20px;
+  }
+
+  .label-form {
+    display:inline-block;
+    justify-self:unset;
+    
   }
 }
