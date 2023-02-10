@@ -4,6 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  overflow-x: hidden;
 }
 
 a {
@@ -58,11 +59,13 @@ body {
 }
 
 
-.mostrar-menu, .esconder-menu {
+.mostrar-menu, 
+.esconder-menu {
   font-size: 35px;
   cursor: pointer;
   display: none;
   transition: 0.4s;
+  color: white;
 }
 
 .mostrar-menu {
