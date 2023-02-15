@@ -21,7 +21,7 @@ body {
 .header-home {
   width:100%;
   height:100vh;
-  background: url(../image/header.png);
+  background: url(../image/design1_image1.jpg);
   background-size: cover;
   background-position: center;
   padding: 0px 50px;
@@ -329,7 +329,6 @@ p {
   text-align: justify;
 
 }
-
 
 
 .enviar {
