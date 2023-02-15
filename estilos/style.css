@@ -139,7 +139,7 @@ h1 {
 
 .aside-about {
   width: 25%;
-  background: url(../image/header.jpg);
+  background: url(../image/hockey1.jpg);
   background-size: cover;
   background-position: center;
   margin:10px;
@@ -150,7 +150,7 @@ h1 {
 .aside-contact {
   width: 40%;
   height: 50vh;
-  background: url(../image/img-contact.jpg);
+  background: url(../image/design1_image1.jpg);
   background-size: cover;
   background-position: center;
   margin-left:40px;
